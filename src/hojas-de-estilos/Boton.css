@@ -6,10 +6,10 @@
     align-items: center;
     font-weight: bold;
     font-size:38px;
-    background-color: #5229e7;
+    background-color: #261857;
     color: white;
     border-radius:35px;
-    border: 3px solid rgb(250, 248, 116);
+    border: 3px solid rgb(58, 57, 16);
     margin:4px;
     cursor: pointer;
     user-select: none;
@@ -17,12 +17,12 @@
 }
 
 .operador {
-    background-color: #a28ddb;
+    background-color: #806bb9;
 }
 
 .boton-contenedor:hover {
-    background-color: #5a01a7;
+    background-color: #211030;
 }
 .operador:hover {
-    background-color: #eb660e;
+    background-color: #bb6226;
 }
